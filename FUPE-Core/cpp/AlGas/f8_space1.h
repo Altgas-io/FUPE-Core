@@ -1,4 +1,3 @@
-#pragma once
 //************************************************
 //* Copyright ALTGAS Pte. Ltd. 2019
 //* All rights reserved.
