@@ -146,6 +146,9 @@
   <ItemGroup>
     <ClCompile Include="FUPE-Core.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="f8_space1.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
